@@ -3,7 +3,7 @@
 **Last updated: April 2026**
 
 ## Who we are
-Beam is a festival friend-finder app developed by Emil Kornerup, based in Denmark. Contact: emilkornerup@gmail.com
+Beam is a festival friend-finder app developed by Emil Kornerup, based in Denmark. Contact: beamfriendfinder@gmail.com
 
 ## What data we collect
 - Your email address
@@ -29,4 +29,4 @@ Your data is stored as long as your account exists. When you delete your account
 We use Firebase (Google) for authentication, database, and push notifications. We do not sell your data to any third parties.
 
 ## Contact
-emilkornerup@gmail.com
+beamfriendfinder@gmail.com
